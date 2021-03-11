@@ -13,13 +13,3 @@ module.exports = function towelSort (matrix) {
     }
   return sorted;
 }
-
-
-
-
-/*
-{ matrix[k].reverse()}
-      for (let l = 0; l < matrix[k].length; l++){
-        sorted.push(matrix[k][l])
-      }
-*/
